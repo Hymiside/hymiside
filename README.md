@@ -1,5 +1,4 @@
 ### Hi 👋, I'm hymiside
-💻 Backend Developer
 
 - 🔭 I’m a student of Yandex Lyceum
 - 🌱 I’m currently learning Python & Django
